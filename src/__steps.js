@@ -7,8 +7,13 @@
  * 6 create firebase.init.js
  * 7.  Visit :go to docks =>Build =>Autohentication ->Web --> Get started
  * 8.create auth 
+ *          -----------
+ *          providr setup
+ *          ----------------
+ * 
  * 9.import google auth provider and create neew  provaider
  * 10.write a function and call {signIn WIth pop up }... pass auth and provaider as peramiter
+ * 11.activate sign in mathod
  * 
  * 
  * 
